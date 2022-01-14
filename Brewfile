@@ -7,6 +7,7 @@ brew 'nvm'
 brew 'composer'
 brew 'git'
 brew 'php'
+brew 'postgresql'
 brew 'pnpm', args: ['ignore-dependencies']
 brew 'yarn', args: ['ignore-dependencies']
 
