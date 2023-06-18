@@ -1,0 +1,6 @@
+[user]
+  email = hello@benjamindossantos.be
+  name = Benjamin Dos Santos
+[core]
+  excludesfile = ~/.gitignore_global
+  editor = code --wait

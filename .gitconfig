@@ -1,6 +1,0 @@
-[includeIf "gitdir:~/Personal\ Workspace/"]
-  path = ~/.gitconfig-personal
-[includeIf "gitdir:~/Sanserif\ Workspace/"]
-  path = ~/.gitconfig-personal
-[includeIf "gitdir:~/McArnolds\ Workspace/"]
-  path = ~/.gitconfig-mcarnolds
