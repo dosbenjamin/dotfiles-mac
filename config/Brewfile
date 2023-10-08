@@ -8,7 +8,6 @@ tap 'homebrew/cask-fonts'
 cask 'font-jetbrains-mono'
 
 brew 'mas'
-mas 'Canary Mail', id: 1236045954
 mas 'mymind • Extend your mind', id: 1532801185
 
 cask '1password'
